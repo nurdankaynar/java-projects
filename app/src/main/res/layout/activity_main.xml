@@ -85,18 +85,21 @@
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnClear"
                     style="@style/CalculatorButtonStyle"
+                    android:textColor="#e8af15"
                     android:text="C" />
 
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnPercent"
                     style="@style/CalculatorButtonStyle"
+                    android:textColor="#e8af15"
                     android:textSize="36sp"
                     android:text="%" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnDivide"
                     style="@style/CalculatorButtonStyle"
+                    android:textColor="#e8af15"
                     android:textSize="36sp"
                     android:text="/" />
 
@@ -131,6 +134,7 @@
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnMultiply"
                     style="@style/CalculatorButtonStyle"
+                    android:textColor="#e8af15"
                     android:textSize="24sp"
                     android:text="x" />
             </LinearLayout>
@@ -159,6 +163,7 @@
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/btnMinus"
                     style="@style/CalculatorButtonStyle"
+                    android:textColor="#e8af15"
                     android:textSize="36sp"
                     android:text="-" />
             </LinearLayout>
