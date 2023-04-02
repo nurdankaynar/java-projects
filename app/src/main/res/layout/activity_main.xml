@@ -103,11 +103,12 @@
                     android:textSize="36sp"
                     android:text="/" />
 
-                <androidx.appcompat.widget.AppCompatButton
+                <androidx.appcompat.widget.AppCompatImageButton
                     android:id="@+id/btnDelete"
                     style="@style/CalculatorButtonStyle"
-                    android:textSize="36sp"
-                    app:icon="@drawable/baseline_arrow_back_ios_new_24" />
+                    android:src="@drawable/delete"
+                    android:textSize="36sp" />
+
             </LinearLayout>
 
             <LinearLayout
